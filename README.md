@@ -1,8 +1,6 @@
-<div
-  style="background-image: url('https://raw.githubusercontent.com/gist/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/01151_inthedeep_2560x1600.jpg'); 
-         background-size: cover; 
-         background-position: center; 
-         padding: 20px;">
+<div class="container">
+    <img   src="https://raw.githubusercontent.com/gist/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/01151_inthedeep_2560x1600.jpg" alt="">
+  </div>
   
   <h1 align="center" style="color: white;">Hi 👋, I'm Suraj Bhabad</h1>
   <h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
